@@ -14,7 +14,7 @@ create virtual environment: ```virtualenv myenv```
 
 activate virtual environment: ```virtualenv/scripts/activate```
 
-install requirements.txt File: ```pip install -r requirements.txt in your shell.```
+install requirements.txt File: ```pip install -r requirements.txt``` in your shell.
 
 download [Postman](https://www.postman.com/)
 

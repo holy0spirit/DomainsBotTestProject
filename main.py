@@ -7,7 +7,7 @@ app = Flask(__name__)
 def testAPI():
 
 
-    return jsonify({"data" : "end-point successful"})
+    return jsonify({"data" : "end-point successful", "status" : "200"})
 
 @app.route('/palindrome', methods=['POST'])
 def mPalindrome():

@@ -22,7 +22,7 @@ launch your app: ```flask run```
 
 > copy endpoints to postman for testing
 
- [ ] / - default endpoint
+ - [*] / - default endpoint
 
 returns
 ```
@@ -32,7 +32,7 @@ returns
 }
 ```
 
-[ ] /palindrome - Task 1 [Write a function that tells you whether a word is a palindrome. A palindrome is a word or a phrase that is the same whether you read it backwards or forwards, for example the word ‘refer’. On the other hand, ‘refers’ is not a palindrome.]
+- [*] /palindrome - Task 1 [Write a function that tells you whether a word is a palindrome. A palindrome is a word or a phrase that is the same whether you read it backwards or forwards, for example the word ‘refer’. On the other hand, ‘refers’ is not a palindrome.]
 
 returns:
 ```
@@ -53,7 +53,7 @@ or
 }
 ```
 
-[ ] /lenghty - Task 2 [Write a function which, given a string, finds the length of the longest sub-string without repeating characters.]
+- [*] /lenghty - Task 2 [Write a function which, given a string, finds the length of the longest sub-string without repeating characters.]
 
 returns:
 
